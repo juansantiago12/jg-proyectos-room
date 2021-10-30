@@ -7,11 +7,11 @@
 }
 @font-face {
    font-family: 'Cinzel-Regular';
-   src: url(../fonts/Cinzel-Regular.ttf);
+   src: url(./fonts/Cinzel-Regular.ttf);
 }
 @font-face {
    font-family: 'Roboto-Regular';
-   src: url(../fonts/Roboto-Regular.ttf);
+   src: url(./fonts/Roboto-Regular.ttf);
 }
 * {
    box-sizing: border-box;
