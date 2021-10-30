@@ -141,7 +141,7 @@ img {
 
 /* Banner */
 .banner {
-   background-image: url('../img/romm-1.jpg');
+   background-image: url('./image/romm-1.jpg');
    width: 100%;
    height: 350px;
    background-size: cover;
